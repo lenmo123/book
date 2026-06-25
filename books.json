@@ -1,0 +1,16 @@
+[
+    {
+        "name": "犯罪心理",
+        "author": "作者A",
+        "cover": "https://s41.ax1x.com/2026/06/25/pmtITnH.webp",
+        "intro": "这是第一本书的简介内容",
+        "read_url": "填入你的书籍阅读/下载地址"
+    },
+    {
+        "name": "书籍二号",
+        "author": "作者B",
+        "cover": "https://s41.ax1x.com/2026/06/25/pmtITnH.webp",
+        "intro": "这是第二本书的简介内容",
+        "read_url": "填入你的书籍阅读/下载地址"
+    }
+]
